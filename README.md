@@ -72,3 +72,7 @@ Circuit 4 (length 4): 2 0 1 2
 Circuit 5 (length 7): 3 0 1 2 0 4 3  is Euler circuit
 Circuit 6 (length 7): 4 0 1 2 0 3 4  is Euler circuit
 ```
+
+find all circuits in graph using **`findAllCircuits()`** function and 
+print all circuits in graph using **`printAllCircuits()`** function
+> **`printAllCircuits()`** can check circuit that can be Euler circuit
